@@ -1,0 +1,6 @@
+1. Lapisan mana yang paling saya pahami? 
+
+2. Lapisan mana yang masih saya campuradukkan?
+
+3. Bukti apa yang membuat sebuah sistem layak disebut "cerdas" dan bertanggungjawab? 
+Jawaban : Menurut saya sebuah sistem dapat dikatakan cerdas dan bertanggungjawab apabila sistem itu MEMBANTU user untuk menyediakan atau memfasilitasi user mendapatkan apa yang mereka butuhkan tanpa membuat user tersebut menjadi tidak cerdas dengan cara memberikan penyajian data yang tidak kritis atau analisa yang tidak kritis. Sedangkan tanggung jawab itu berorientasi dengan regulasi hukum dan etika digital, yang mana hasil atau output dari sistem tidak bersinggungan dengan kode etik, hak intelektual dan hal lain yang dapat dipermasalahkan secara hukum atau etika digital.
